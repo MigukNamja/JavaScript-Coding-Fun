@@ -1,0 +1,20 @@
+{
+  "name": "js-coding-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "telephone-number-validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tn": "node js-coding-fun.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MigukNamja/JavaScript-Coding-Fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MigukNamja/JavaScript-Coding-Fun/issues"
+  },
+  "homepage": "https://github.com/MigukNamja/JavaScript-Coding-Fun#readme"
+}
